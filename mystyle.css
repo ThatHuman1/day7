@@ -1,0 +1,24 @@
+table, th, tr, td {
+    border: 1px solid black;
+  }
+#tablehead {
+    font-weight: bold;
+}
+#table1{
+  background-color: rgba(0, 255, 0, 0.336);
+}
+#table1header {
+  background-color: rgba(69, 153, 31, 0.705);
+}
+#table1content {
+  background-color: rgba(93, 238, 49, 0.685);
+}
+#table2{
+  background-color: rgba(255, 67, 67, 0.445);
+}
+#table2header {
+  background-color: rgba(128, 3, 3, 0.705);
+}
+#table2content {
+  background-color: rgba(255, 0, 0, 0.685);
+}
